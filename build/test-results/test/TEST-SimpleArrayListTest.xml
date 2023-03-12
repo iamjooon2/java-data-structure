@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleArrayListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-12T08:49:53" hostname="jooons-MacBook.local" time="0.028">
+  <properties/>
+  <testcase name="simpleArrayList()" classname="SimpleArrayListTest" time="0.028"/>
+  <system-out><![CDATA[SimpleArrayList@6d025197
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
